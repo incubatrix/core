@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Incubatrix\CorePackage\Utils\Generator;
+namespace Incubatrix\CorePackage\Utils;
 
 use Symfony\Component\Uid\Uuid;
 

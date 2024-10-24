@@ -1,5 +1,5 @@
 {
-    "name": "incubatrix/core-package",
+    "name": "incubatrix/core",
     "description": "Incubatrix Core Package",
     "type": "library",
     "license": "proprietary",
@@ -9,7 +9,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Incubatrix\\CorePackage\\": "src/"
+            "Incubatrix\\Core\\": "src/"
         }
     }
 }
