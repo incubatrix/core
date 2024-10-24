@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Incubatrix\CorePackage\Utils;
+namespace Incubatrix\Core\Utils;
 
 use Symfony\Component\Uid\Uuid;
 
