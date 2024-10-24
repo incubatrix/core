@@ -1,0 +1,15 @@
+{
+    "name": "incubatrix/core-package",
+    "description": "Incubatrix Core Package",
+    "type": "library",
+    "license": "proprietary",
+    "require": {
+        "php": ">=8.2",
+        "symfony/uid": "^6.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Incubatrix\\CorePackage\\": "src/"
+        }
+    }
+}
